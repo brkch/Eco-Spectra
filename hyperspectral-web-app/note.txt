@@ -1,0 +1,8 @@
+python version should be 3.10
+add this prompt 
+cd folder path ( exp: C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www\hyperspectral-web-app )
+pip install flask
+pip install -r requirements.txt
+pip install netCDF4
+pip install xarray
+pip install tensorflow
