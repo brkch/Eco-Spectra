@@ -33,5 +33,8 @@ h5py>=3.3.0
 joblib>=1.0.0
 tqdm>=4.62.0
 
+
+gunicorn==23.0.0
+
 # Optional but recommended
 requests>=2.25.0  # For testing API endpoints
