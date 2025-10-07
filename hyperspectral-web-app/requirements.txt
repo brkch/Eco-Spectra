@@ -35,6 +35,10 @@ tqdm>=4.62.0
 
 
 gunicorn==23.0.0
+https://mega.nz/file/zvRhgBKB#hbnpZS9GPxQ-CgDD-oZdIngPu6IxJqNldOvQt5cybu8
 
 # Optional but recommended
 requests>=2.25.0  # For testing API endpoints
+
+netCDF4
+
